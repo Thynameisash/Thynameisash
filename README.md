@@ -19,8 +19,11 @@
 - ⚡ Fun fact **I also play guitar**
 <br/>
 
-## 🚀 Languages and Tools:
+<center>
+ 
+##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀Languages and Tools:
 
+</center>
 <!-- <h3 align="center">Languages and Tools:</h3> -->
 <h3 align="center">Programming Stack</h3>
 <p align="center">
