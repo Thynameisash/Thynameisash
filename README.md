@@ -5,7 +5,7 @@
 <br/>
 
 
-## 🙋‍♂️ About Me
+## &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Food-Delivery App for Android/iOS]**
 <a href="https://github.com/Thynameisash/github-readme-streak-stats"> <img align ="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thynameisash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thynameisash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
@@ -21,7 +21,7 @@
 
 <center>
  
-##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀Languages and Tools:
+##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀Languages and Tools
 
 </center>
 <!-- <h3 align="center">Languages and Tools:</h3> -->
@@ -33,7 +33,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
 </p></center>
-
+<hr/>
 <center>
 <h3 align="center">Development Stack</h3>
 <p align="center">
@@ -44,7 +44,7 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;
 </p>
 </center>
-
+<hr/>
 <center>
 <h3 align="center">Backend/ Connectivity</h3>
 <p align="center">
@@ -56,6 +56,7 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.pluraltechnology.com/wp-content/uploads/2017/07/oracle-logo.png" alt="oracle" width="60" height="40"/> </a> &nbsp;
 </p>
 </center>
+<hr/>
 <br/>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thynameisash&show_icons=true&locale=en&layout=compact" alt="thynameisash" /></p>
@@ -65,7 +66,7 @@
 <br/>
 
 
-## 📊 My Github Stats
+##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 My Github Stats
   <br/>
     <a href="https://github.com/Thynameisash/github-readme-stats"><img alt="Thynameisash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thynameisash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Thynameisash/github-readme-stats"><img alt="Thynameisash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thynameisash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
