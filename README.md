@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://wallpaperaccess.com/full/6697004.jpg" height="300px"/></a>
+<a href="#"><img width="100%" src="https://wallpaperaccess.com/full/6697004.jpg" height="400px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Ash</h1>
 <h3 align="center">A Tech-Enthusiast from India</h3>
@@ -48,16 +48,37 @@
 </center>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thynameisash&show_icons=true&locale=en&layout=compact" alt="thynameisash" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thynameisash&show_icons=true&locale=en&layout=compact" alt="thynameisash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thynameisash&show_icons=true&locale=en" alt="thynameisash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thynameisash&" alt="thynameisash" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aashray sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashray sharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thefieryguitar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thefieryguitar" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/ash990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ash990" height="30" width="40" /></a>
+ -->
+<p align="center">
+    <a href="https://github.com/Thynameisash/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thynameisash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thynameisash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
+## 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/Thynameisash/github-readme-stats"><img alt="Thynameisash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thynameisash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Thynameisash/github-readme-stats"><img alt="Thynameisash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thynameisash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b>The top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+<a href="https://github.com/Thynameisash/github-readme-activity-graph"><img alt="Thynameisash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thynameisash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/aashray-sharma-08a312245/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.leetcode.com/ash990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ash990" height="30" width="40" /></a>
+<a href = "https://www.youtube.com/c/thefieryguitar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Thynameisash">
+</a>
+<a href="https://github.com/Thynameisash?tab=followers"><img src="https://img.shields.io/github/followers/Thynameisash?label=Followers&style=social" alt="GitHub Badge"></a>
