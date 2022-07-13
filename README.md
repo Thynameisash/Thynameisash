@@ -52,7 +52,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thynameisash&show_icons=true&locale=en" alt="thynameisash" /></p>
  -->
-<p align="center">
+<br/>
+ <p align="center">
     <a href="https://github.com/Thynameisash/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thynameisash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thynameisash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -72,11 +73,11 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/aashray-sharma-08a312245/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.leetcode.com/ash990"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="ash990" height="30" width="40" /></a>
-<a href = "https://www.youtube.com/c/thefieryguitar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/aashray-sharma-08a312245/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
+<a href="https://www.leetcode.com/ash990"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="ash990" height="35" width="35" /></a>
+<a href = "https://www.youtube.com/c/thefieryguitar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="35" width="35" /></a>
 </p>
-<br>
+ 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Thynameisash">
