@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://wallpaperaccess.com/full/6697004.jpg" height="145px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://wallpaperaccess.com/full/6697004.jpg" height="75px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Ash</h1>
 <h3 align="center"></h3>
