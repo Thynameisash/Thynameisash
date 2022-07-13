@@ -74,8 +74,8 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/aashray-sharma-08a312245/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
-<a href="https://www.leetcode.com/ash990"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="ash990" height="35" width="35" /></a>
 <a href = "https://www.youtube.com/c/thefieryguitar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="35" width="35" /></a>
+<a href="https://www.leetcode.com/ash990"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ash990" height="35" width="35" /></a>
 </p>
  
 ## ❤ Views and Followers
