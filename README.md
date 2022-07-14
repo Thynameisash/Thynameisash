@@ -68,7 +68,7 @@
 
 ##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 My Github Stats
   <br/>
-    <a href="https://github.com/Thynameisash/github-readme-stats"><img alt="Thynameisash's Github Stats" height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=Thynameisash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Thynameisash/github-readme-stats"><img alt="Thynameisash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thynameisash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Thynameisash/github-readme-stats"><img align="right" alt="Thynameisash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thynameisash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note: </b>The top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
