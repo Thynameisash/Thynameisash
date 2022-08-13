@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://github.com/Thynameisash/My-Docs/blob/master/gitposter.png" height="250px"/></a>
+<a href="#"><img width="100%" src="https://github.com/Thynameisash/My-Docs/blob/master/gitposter.png" height="275px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Ash</h1>
 <h3 align="center">A Tech-Enthusiast from India</h3>
