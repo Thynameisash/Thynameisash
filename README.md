@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on ***Note-Taker using MERN***
 <a href="https://github.com/Thynameisash/github-readme-streak-stats"> <img align ="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thynameisash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thynameisash&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
 
-- 🌱 I’m currently learning ***MERN Stack***
+- 🌱 I’m currently learning ***Flutter & Dart***
 
 - 👯 I’m looking to collaborate on ***OpenSource Projects***
 
